@@ -1,1 +1,2 @@
-{:deps {org.scicloj/noj {:mvn/version "1-alpha34"}}}
+{:deps {org.scicloj/noj         {:mvn/version "1-alpha34"}
+        org.scicloj/hanamicloth {:mvn/version "1-alpha2-SNAPSHOT"}}}
